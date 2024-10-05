@@ -2,8 +2,10 @@
 
 - VS code editor
 - Google Chrome / Brave
-- Extension 
-    - Prettier
-    - 
+- Extension
 
-- Setting    
+  - Prettier
+  -
+
+- Setting
+- Format on save
